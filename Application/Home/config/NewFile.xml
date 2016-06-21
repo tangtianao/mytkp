@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class xmlns="http://www.example.org/class"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.example.org/class class.xsd">
+	<database id="dsnForMysql">
+		<dsn>mysql:host=localhost;dbname=education</dsn>
+		<username>root</username>
+		<userpass>123456</userpass>
+	</database>
+</class>

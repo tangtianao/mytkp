@@ -1,0 +1,2999 @@
+[ 2016-06-19T09:10:06+08:00 ] 127.0.0.1 /mytyk/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006001s ]
+
+[ 2016-06-19T10:11:29+08:00 ] 127.0.0.1 /mytyk/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-06-19T10:11:32+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/longin?fid=1
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-19T10:21:08+08:00 ] 127.0.0.1 /mytyk/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007000s ]
+
+[ 2016-06-19T10:21:11+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/longin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-19T10:22:40+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/longin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+ERR: 无法加载控制器:GLclass
+
+[ 2016-06-19T10:24:12+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/longin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:GLclass
+
+[ 2016-06-19T10:24:17+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/longin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:GLclass
+
+[ 2016-06-19T10:24:26+08:00 ] 127.0.0.1 /mytyk/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-19T10:24:29+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/longin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+ERR: 无法加载控制器:GLclass
+
+[ 2016-06-19T10:26:21+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+ERR: 无法加载控制器:GLclass
+
+[ 2016-06-19T10:26:53+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+ERR: 无法加载控制器:GLclass
+
+[ 2016-06-19T10:27:28+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.004000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.059003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2016-06-19T10:27:29+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+ERR: 参数错误或者未定义:pageNo
+
+[ 2016-06-19T10:27:35+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.004001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.007001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.044002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-06-19T10:27:36+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+ERR: 参数错误或者未定义:pageNo
+
+[ 2016-06-19T10:27:40+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/longin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+ERR: 非法操作:longin
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\App.class.php:124) C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\App.class.php:124) C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+
+[ 2016-06-19T10:27:48+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/longin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+ERR: 非法操作:longin
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\App.class.php:124) C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\App.class.php:124) C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+
+[ 2016-06-19T10:29:21+08:00 ] 127.0.0.1 /mytyk/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007000s ]
+
+[ 2016-06-19T10:29:23+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/longin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+ERR: 非法操作:longin
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\App.class.php:124) C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\App.class.php:124) C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+
+[ 2016-06-19T10:33:16+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/longin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+ERR: 非法操作:longin
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\App.class.php:124) C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\App.class.php:124) C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+
+[ 2016-06-19T10:34:20+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/longin
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0100s ]
+ERR: 非法操作:longin
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\App.class.php:124) C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\App.class.php:124) C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+
+[ 2016-06-19T10:34:27+08:00 ] 127.0.0.1 /mytyk/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-19T10:34:30+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.005000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.063603s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.066603s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-06-19T10:34:32+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+ERR: 参数错误或者未定义:pageNo
+
+[ 2016-06-19T10:35:35+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046801s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046801s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-06-19T10:35:37+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `class` LIMIT 0,10   [ RunTime:0.0030s ]
+SQL: SELECT count(*) total FROM `class`  [ RunTime:0.0010s ]
+
+[ 2016-06-19T10:36:30+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0070s ]
+SQL: SELECT * FROM `class` LIMIT 0,10   [ RunTime:0.0010s ]
+SQL: SELECT count(*) total FROM `class`  [ RunTime:0.0010s ]
+
+[ 2016-06-19T10:43:08+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0040s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.005000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2016-06-19T10:43:10+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0075s ]
+SQL: SELECT * FROM `class` LIMIT 0,10   [ RunTime:0.0050s ]
+SQL: SELECT count(*) total FROM `class`  [ RunTime:0.0025s ]
+
+[ 2016-06-19T10:44:05+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.015600s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.046800s ]
+INFO: [ app_end ] --END-- [ RunTime:0.109200s ]
+
+[ 2016-06-19T10:44:07+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `class` LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT count(*) total FROM `class`  [ RunTime:0.0000s ]
+
+[ 2016-06-19T10:44:38+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `class` LIMIT 0,10   [ RunTime:0.0010s ]
+SQL: SELECT count(*) total FROM `class`  [ RunTime:0.0010s ]
+
+[ 2016-06-19T10:44:40+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `class` LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT count(*) total FROM `class`  [ RunTime:0.0000s ]
+
+[ 2016-06-19T10:44:44+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.004000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050602s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051603s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.008000s ]
+
+[ 2016-06-19T10:44:46+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `class` LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT count(*) total FROM `class`  [ RunTime:0.0000s ]
+
+[ 2016-06-19T10:45:29+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-06-19T10:45:31+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `class` LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT count(*) total FROM `class`  [ RunTime:0.0156s ]
+
+[ 2016-06-19T10:46:32+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0050s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.006001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2016-06-19T10:46:34+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `class` LIMIT 0,10   [ RunTime:0.0020s ]
+SQL: SELECT count(*) total FROM `class`  [ RunTime:0.0130s ]
+
+[ 2016-06-19T14:14:32+08:00 ] 127.0.0.1 /mytyk/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010001s ]
+
+[ 2016-06-19T14:14:45+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0340s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.004000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-06-19T14:14:47+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0150s ]
+SQL: SELECT * FROM `class` LIMIT 0,10   [ RunTime:0.0040s ]
+SQL: SELECT count(*) total FROM `class`  [ RunTime:0.0010s ]
+
+[ 2016-06-19T14:38:57+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-06-19T14:38:58+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+NOTIC: [8] Undefined variable: rows C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: total C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 23 行.
+
+[ 2016-06-19T14:41:47+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-19T14:41:49+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: rows C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: total C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 23 行.
+
+[ 2016-06-19T14:46:09+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.015600s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-06-19T14:46:10+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+NOTIC: [8] Undefined variable: rows C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: total C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 23 行.
+
+[ 2016-06-19T14:46:30+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-19T14:46:32+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+NOTIC: [8] Undefined variable: rows C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: total C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 23 行.
+
+[ 2016-06-19T14:47:24+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-06-19T14:47:26+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+NOTIC: [8] Undefined variable: rows C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: total C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 23 行.
+
+[ 2016-06-19T14:47:54+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062400s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-06-19T14:47:56+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.015600s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: rows C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: total C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 23 行.
+
+[ 2016-06-19T14:50:47+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0100s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.004000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.051003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009001s ]
+
+[ 2016-06-19T14:50:49+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0150s ]
+NOTIC: [8] Undefined variable: rows C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: total C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 23 行.
+
+[ 2016-06-19T14:51:22+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0080s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.054003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.009000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012001s ]
+
+[ 2016-06-19T14:51:24+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0150s ]
+NOTIC: [8] Undefined variable: rows C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: total C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 23 行.
+
+[ 2016-06-19T14:56:39+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.015600s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.015600s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-06-19T14:56:41+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+NOTIC: [8] Undefined variable: rows C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: total C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 23 行.
+
+[ 2016-06-19T14:58:48+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062401s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062401s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-06-19T14:58:50+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+NOTIC: [8] Undefined variable: rows C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: total C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 23 行.
+
+[ 2016-06-19T14:59:18+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046801s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046801s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-06-19T14:59:20+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+NOTIC: [8] Undefined variable: rows C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: total C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 23 行.
+
+[ 2016-06-19T14:59:41+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.015600s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.015600s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-06-19T14:59:43+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: rows C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: total C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 23 行.
+
+[ 2016-06-19T15:00:29+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.031200s ]
+INFO: [ app_end ] --END-- [ RunTime:0.031200s ]
+
+[ 2016-06-19T15:00:31+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: rows C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: total C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 23 行.
+
+[ 2016-06-19T15:00:34+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-06-19T15:00:36+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+NOTIC: [8] Undefined variable: rows C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: total C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 23 行.
+
+[ 2016-06-19T15:01:28+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.015600s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-06-19T15:01:30+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: rows C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: total C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 23 行.
+
+[ 2016-06-19T15:02:13+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031201s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046801s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-06-19T15:02:15+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: rows C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 22 行.
+NOTIC: [8] Undefined variable: total C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 23 行.
+
+[ 2016-06-19T15:20:47+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.015600s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-06-19T15:20:49+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: rows C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 80 行.
+NOTIC: [8] Undefined variable: total C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 81 行.
+
+[ 2016-06-19T15:21:22+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046801s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046801s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-19T15:21:25+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: rows C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 80 行.
+NOTIC: [8] Undefined variable: total C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 81 行.
+
+[ 2016-06-19T15:22:47+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-06-19T15:22:50+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `class` WHERE `cid` = 0 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-06-19T15:25:24+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062400s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-06-19T15:25:27+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `class` WHERE `cid` = 0 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-06-19T15:26:47+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.015600s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-06-19T15:26:50+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `class` WHERE `cid` = 0 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-06-19T15:28:09+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.015600s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.015600s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-19T15:28:12+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `class` WHERE `cid` = 0 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-06-19T15:30:39+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-06-19T15:30:41+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `class` WHERE `cid` = 0 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-06-19T15:33:46+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `class` WHERE `cid` = 0 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-06-19T15:33:47+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `class` WHERE `cid` = 0 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-06-19T15:33:48+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `class` WHERE `cid` = 0 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-06-19T15:33:49+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `class` WHERE `cid` = 0 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-06-19T15:33:50+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `class` WHERE `cid` = 0 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-06-19T15:33:51+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `class` WHERE `cid` = 0 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-06-19T15:33:52+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `class` WHERE `cid` = 0 LIMIT 1   [ RunTime:0.0000s ]
+
+[ 2016-06-19T15:42:36+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.015600s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-19T15:42:39+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+
+[ 2016-06-19T15:44:14+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008001s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0090s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-06-19T15:47:05+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062400s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062400s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-06-19T15:47:08+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+
+[ 2016-06-19T15:48:39+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+NOTIC: [8] Undefined variable: begin C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 60 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-06-19T15:50:07+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-19T16:00:22+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+
+[ 2016-06-19T16:00:34+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062400s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062400s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-19T16:00:37+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+
+[ 2016-06-19T16:01:02+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.015600s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-19T16:01:05+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+
+[ 2016-06-19T16:03:25+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008001s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0140s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.004000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.053003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.055003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2016-06-19T16:03:28+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.012001s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0040s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  [ RunTime:0.0010s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid limit 0,10 [ RunTime:0.0010s ]
+
+[ 2016-06-19T16:03:47+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%undefined%' and u1.trueName like '%undefined%' and u2.trueName like '%undefined%' [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%undefined%' and u1.trueName like '%undefined%' and u2.trueName like '%undefined%'limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T16:03:50+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%undefined%' and u1.trueName like '%undefined%' and u2.trueName like '%undefined%' [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%undefined%' and u1.trueName like '%undefined%' and u2.trueName like '%undefined%'limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T16:03:52+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%undefined%' and u1.trueName like '%undefined%' and u2.trueName like '%undefined%' [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%undefined%' and u1.trueName like '%undefined%' and u2.trueName like '%undefined%'limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T16:04:48+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%undefined%' and u1.trueName like '%undefined%' and u2.trueName like '%undefined%' [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%undefined%' and u1.trueName like '%undefined%' and u2.trueName like '%undefined%'limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T16:10:10+08:00 ] 127.0.0.1 /mytyk/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-06-19T16:10:13+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031200s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-19T16:10:16+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T16:10:23+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%undefined%' and u1.trueName like '%undefined%' and u2.trueName like '%undefined%' [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%undefined%' and u1.trueName like '%undefined%' and u2.trueName like '%undefined%'limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T16:10:24+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%undefined%' and u1.trueName like '%undefined%' and u2.trueName like '%undefined%' [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%undefined%' and u1.trueName like '%undefined%' and u2.trueName like '%undefined%'limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T16:11:07+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'c.beginTime <= '2016-06-14'' at line 1
+ [ SQL语句 ] : select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%undefined%' and u1.trueName like '%undefined%' and u2.trueName like '%undefined%' c.beginTime <= '2016-06-14'
+ERR: 1064:You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'c.beginTime <= '2016-06-14'' at line 1
+ [ SQL语句 ] : select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%undefined%' and u1.trueName like '%undefined%' and u2.trueName like '%undefined%' c.beginTime <= '2016-06-14'
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\Db\Driver.class.php:170) C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\Db\Driver.class.php:170) C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+
+[ 2016-06-19T16:12:26+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031200s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-06-19T16:12:28+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T16:12:33+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%%' [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%%'limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T16:14:45+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.015600s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.015600s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-06-19T16:14:48+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: begin C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 60 行.
+
+[ 2016-06-19T16:14:54+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.003000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0040s ]
+NOTIC: [8] Undefined variable: begin C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 60 行.
+
+[ 2016-06-19T16:14:57+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.002000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0050s ]
+NOTIC: [8] Undefined variable: begin C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 60 行.
+
+[ 2016-06-19T16:22:06+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+NOTIC: [2] Division by zero C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 25 行.
+
+[ 2016-06-19T16:22:07+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+NOTIC: [2] Division by zero C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 25 行.
+
+[ 2016-06-19T16:22:08+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+NOTIC: [2] Division by zero C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 25 行.
+
+[ 2016-06-19T16:22:09+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+NOTIC: [2] Division by zero C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 25 行.
+
+[ 2016-06-19T16:22:10+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+NOTIC: [2] Division by zero C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 25 行.
+
+[ 2016-06-19T16:22:11+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+NOTIC: [2] Division by zero C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 25 行.
+
+[ 2016-06-19T16:23:15+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-19T16:24:14+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/className/u
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.015600s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+NOTIC: [2] Division by zero C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-06-19T16:25:06+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/className/u
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+NOTIC: [2] Division by zero C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-06-19T16:25:07+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/className/u
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.015600s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+NOTIC: [2] Division by zero C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-19T16:25:11+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/className/u
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+NOTIC: [2] Division by zero C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\GLclassController.class.php 第 25 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-06-19T16:25:27+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/className/u
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-06-19T16:26:26+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/className/u/createtime1/2016-03-03%2000:00:00
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-19T16:30:20+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/className/u/createtime1/2016-03-03%2000:00:00
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%u%' and c.createTime >= '2016-03-03 00:00:00' [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%u%' and c.createTime >= '2016-03-03 00:00:00'limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T16:36:28+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-06-19T16:36:31+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T16:36:36+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%u%' [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%u%'limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T16:36:41+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%u%' [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%u%'limit 0,10 [ RunTime:0.0156s ]
+
+[ 2016-06-19T16:37:16+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%u%' [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%u%'limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T16:37:22+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.015600s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.015600s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.015600s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046801s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046801s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-19T16:37:25+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T16:37:29+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%u%' [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%u%'limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T16:37:42+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%u%' and c.createTime >= '2016-06-10' [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%u%' and c.createTime >= '2016-06-10'limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T16:37:50+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%u%' and c.createTime >= '2016-06-16' [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%u%' and c.createTime >= '2016-06-16'limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T16:38:02+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%u%' and c.createTime >= '2016-06-16' and c.createTime <= '2016-06-22' [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%u%' and c.createTime >= '2016-06-16' and c.createTime <= '2016-06-22'limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T16:38:09+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%u%' and c.createTime >= '2016-06-16' and c.createTime <= '2016-06-21' [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%u%' and c.createTime >= '2016-06-16' and c.createTime <= '2016-06-21'limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T16:43:41+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-19T16:43:44+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid limit 0,10 [ RunTime:0.0156s ]
+
+[ 2016-06-19T16:45:04+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046801s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062401s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-19T16:45:06+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T16:45:13+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0080s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.status <= '1' [ RunTime:0.0010s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.status <= '1'limit 0,10 [ RunTime:0.0030s ]
+
+[ 2016-06-19T16:46:02+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.015600s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-19T16:46:05+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T16:46:10+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.status = '4' [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.status = '4'limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T16:46:15+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.status = '2' [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.status = '2'limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T16:56:16+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0110s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.005000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.054003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.016001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.020001s ]
+
+[ 2016-06-19T16:56:18+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0040s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  [ RunTime:0.0070s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid limit 0,10 [ RunTime:0.0030s ]
+
+[ 2016-06-19T16:56:27+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/2/pageSize/10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0040s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  [ RunTime:0.0060s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid limit 10,10 [ RunTime:0.0020s ]
+
+[ 2016-06-19T16:59:58+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015601s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015601s ]
+
+[ 2016-06-19T17:00:01+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T17:00:09+08:00 ] 127.0.0.1 /mytyk/index.php/Home/controller/main.php?controller=GLclassController&methodName=manageid
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+ERR: 无法加载控制器:Controller
+
+[ 2016-06-19T17:00:09+08:00 ] 127.0.0.1 /mytyk/index.php/Home/controller/main.php?controller=GLclassController&methodName=headerid
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+ERR: 无法加载控制器:Controller
+
+[ 2016-06-19T17:00:18+08:00 ] 127.0.0.1 /mytyk/index.php/Home/controller/main.php?controller=GLclassController&methodName=loadMenuByID&cid=9
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Controller
+
+[ 2016-06-19T17:00:34+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0090s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  [ RunTime:0.0040s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T17:00:38+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T17:00:42+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T17:01:21+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%u%' [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%u%'limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T17:01:35+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%u%' and c.status = '1' [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and c.name like '%u%' and c.status = '1'limit 0,10 [ RunTime:0.0156s ]
+
+[ 2016-06-19T17:23:30+08:00 ] 127.0.0.1 /mytyk/index.php/Home/controller/main.php?controller=GLclassController&methodName=headerid
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.031200s ]
+ERR: 无法加载控制器:Controller
+
+[ 2016-06-19T17:23:30+08:00 ] 127.0.0.1 /mytyk/index.php/Home/controller/main.php?controller=GLclassController&methodName=manageid
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载控制器:Controller
+
+[ 2016-06-19T17:29:39+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-19T17:29:41+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T17:31:30+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-06-19T17:31:33+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  [ RunTime:0.0156s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T17:33:40+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-06-19T17:33:42+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T17:34:52+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SELECT m.menuid,m.name mname,m.url,m2.name m2name,m.isshow FROM menu m,menu m2 WHERE ( m.parentid = m2.menuid ) LIMIT 0,10   [ RunTime:0.0156s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SELECT count(*) total FROM menu m,menu m2 WHERE ( m.parentid = m2.menuid )  [ RunTime:0.0156s ]
+
+[ 2016-06-19T17:36:16+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031200s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-19T17:36:19+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T17:36:23+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T17:36:33+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/load12Menu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+ERR: Think\Model:load12Menu方法不存在！
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Common\functions.php:102) C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Common\functions.php:102) C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+
+[ 2016-06-19T17:36:55+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031200s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031200s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-06-19T17:36:58+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T17:38:01+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.015600s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-06-19T17:38:04+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T17:39:21+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T17:48:31+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-06-19T17:48:34+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  [ RunTime:0.0156s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T17:50:24+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and u2.trueName like '%娄%' [ RunTime:0.0156s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and u2.trueName like '%娄%'limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T17:50:43+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T17:50:58+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and u2.trueName like '%张三%' [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and u2.trueName like '%张三%'limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T17:51:09+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and u1.trueName like '%娄%' and u2.trueName like '%张三%' [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  and u1.trueName like '%娄%' and u2.trueName like '%张三%'limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T17:55:32+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.015600s ]
+INFO: [ app_end ] --END-- [ RunTime:0.015600s ]
+
+[ 2016-06-19T17:55:35+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0080s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  [ RunTime:0.0010s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid limit 0,10 [ RunTime:0.0010s ]
+
+[ 2016-06-19T17:55:37+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/headerid
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+ERR: Think\Model:headerid方法不存在！
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Common\functions.php:102) C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Common\functions.php:102) C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+
+[ 2016-06-19T17:55:38+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/manageid
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007001s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+ERR: Think\Model:manageid方法不存在！
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Common\functions.php:102) C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Common\functions.php:102) C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+
+[ 2016-06-19T18:01:20+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046800s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062400s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-19T18:01:23+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T18:01:28+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/headerid
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `euser` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `euser` WHERE ( userType = 2 )  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-19T18:01:29+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/manageid
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `euser` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `euser` WHERE ( userType = 3 )  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-19T18:03:23+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0156s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031200s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-19T18:03:25+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid limit 0,10 [ RunTime:0.0000s ]
+
+[ 2016-06-19T18:03:30+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/headerid
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `euser` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `euser` WHERE ( userType = 2 )  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-19T18:03:31+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/manageid
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.031200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `euser` [ RunTime:0.0156s ]
+SQL: SELECT * FROM `euser` WHERE ( userType = 3 )  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-19T18:04:07+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/headerid
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.008000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.010000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0090s ]
+SQL: SHOW COLUMNS FROM `euser` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `euser` WHERE ( userType = 2 )  [ RunTime:0.0020s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005000s ]
+
+[ 2016-06-19T18:05:17+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/classManage
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0130s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.002000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.004000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.048003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012000s ]
+
+[ 2016-06-19T18:05:20+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008001s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0070s ]
+SQL: select count(*) as cc  from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid  [ RunTime:0.0000s ]
+SQL: select c.cid,c.name,c.classtype,c.status,c.createtime,c.begintime,c.endtime,u1.truename as headername,
+            u2.truename as managename,c.stucount,c.remark from class c,euser u1,euser u2 where c.headerid=u1.uid and c.managerid=u2.uid limit 0,10 [ RunTime:0.0020s ]
+
+[ 2016-06-19T18:05:22+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/headerid
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `euser` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `euser` WHERE ( userType = 2 )  [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004000s ]
+
+[ 2016-06-19T18:05:23+08:00 ] 127.0.0.1 /mytyk/index.php/Home/GLclass/manageid
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+SQL: SHOW COLUMNS FROM `class` [ RunTime:0.0070s ]
+SQL: SHOW COLUMNS FROM `euser` [ RunTime:0.0090s ]
+SQL: SELECT * FROM `euser` WHERE ( userType = 3 )  [ RunTime:0.0030s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004001s ]
+

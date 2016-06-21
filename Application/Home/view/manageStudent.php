@@ -1,0 +1,293 @@
+<?php
+session_start();
+
+
+// echo $manageid;
+?>
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>学生管理</title>
+        <link type="text/css"  rel="stylesheet" href="../easyui/themes/bootstrap/easyui.css">
+		<link type="text/css"  rel="stylesheet" href="../easyui/themes/icon.css">
+		<script type="text/javascript" src="../easyui/jquery.min.js"></script>
+		<script type="text/javascript" src="../easyui/jquery.easyui.min.js"></script>
+		<script type="text/javascript" src="../easyui/locale/easyui-lang-zh_CN.js"></script>
+		<style type="text/css">
+        #fortable{
+	        width: 60%;
+	        margin:auto;
+	        margin-top:20px;
+        }
+        #fortable tr{
+            height:40px;	
+        }   
+
+        </style>
+		
+		
+		<script type="text/javascript">
+		$(function(){
+			$('#win').window('close');  
+			
+			$('#dg').datagrid({
+				striped:true,    
+				method:'GET',
+			    url:"../controller/main.php?pageNo=1&pageSize=10&controller=manageStudentController&methodName=loadMenuByTeache",
+			    rownumbers:true,
+			    pagination: true,
+			    frozenColumns:[[
+                   {field:'aaaa',checkbox:true}
+				]],   
+			    columns:[[    
+	                {field:'uid',hidden:true},    
+    		        {field:'userName',title:'账号',width:100,align:'center'},    
+    		        {field:'userPass',title:'密码',width:100,align:'center'},
+    		        {field:'userType',title:'类型',width:100,align:'center'},
+    		        {field:'trueName',title:'真实姓名',width:100,align:'center'},
+    		        {field:'sex',title:'性别',width:100,align:'center'},
+    		        {field:'phone',title:'手机号',width:100,align:'center'},
+    		        {field:'school',title:'所属班级',width:100,align:'center'},
+    		        {field:'status',title:'状态',width:100,align:'center'}
+			    ]],
+			    //table内的下拉列表/添加和删除按钮
+			    toolbar: [{
+    				iconCls: 'icon-add2',
+    				text:'添加',
+    				handler: function(){
+    					$("#ff").form('reset');
+        				//每次打开窗口前加载一二级菜单作为父级菜单下拉列表的选项
+    					$('#pid').combobox({    
+    					    url:'../controller/main.php?controller=manageStudentController&methodName=province',    
+    					    valueField:'pid',    
+    					    textField:'name' ,
+    					    onSelect:function(record){       
+    					    	$('#cid').combobox({    
+               					    url:'../controller/main.php?controller=manageStudentController&methodName=city&fid='+record.pid,    
+               					    valueField:'cid',    
+               					    textField:'name' 
+    							});  
+    					    }
+					});
+    					$('#win').window('open');
+    				}
+    			},'-',{
+					iconCls: 'icon-delete',
+					text:'删除',
+					handler: function(){
+						var selectedRows = $("#dg").datagrid("getSelections");
+						if(selectedRows.length ==0){
+							alert("请选择后再删除");
+							return;
+						}
+						if(window.confirm("你真的确定删除这些数据吗？")){
+							var uid = new Array();
+							for(var i= 0;i<selectedRows.length;i++){
+								uid.push(selectedRows[i].uid);
+							}
+							$.post("../controller/main.php?controller=manageStudentController&methodName=cancelMenu",{
+								"uid":uid.join(",")
+							},function(data){
+								
+								refres(1,10);
+							},"text");
+						}
+					}
+				},'-',{
+					iconCls: 'icon-modify',
+					text:'修改',
+					handler: function(){
+						var selectedRows = $("#dg").datagrid("getSelections");
+						if(selectedRows.length == 0){
+							alert("请选择后再修改");
+							return;
+						}
+						if(selectedRows.length > 1){
+							alert("只能选择一行修改");
+							return;
+						}
+						$("#ff").form('reset');
+						$('#pid').combobox({    
+    					    url:'../controller/main.php?controller=manageStudentController&methodName=province',    
+    					    valueField:'pid',    
+    					    textField:'name' ,
+    					    onSelect:function(record){       
+    					    	$('#cid').combobox({    
+               					    url:'../controller/main.php?controller=manageStudentController&methodName=city&fid='+record.pid,    
+               					    valueField:'cid',    
+               					    textField:'name' 
+    							});  
+    					    }
+						});
+						var row = selectedRows[0];
+						
+						$.getJSON("../controller/main.php?controller=manageStudentController&methodName=loadMenuByID&uid="+row.uid,{},function(data){
+							$("#uid").val(data.uid);
+							$("#userName").val(data.userName);
+							$("#userPass").val(data.userPass);
+							$("#userType").combobox("select",data.userType);
+							$("#trueName").val(data.trueName);
+							$("#sex").combobox("select",data.sex);
+							$("#birthDay").datebox("setValue",data.birthDay.substr(0,10));
+							$("#phone").val(data.phone);
+							$("#school").val(data.school);
+							$("#education").combobox("select",data.education);
+							$("#status").combobox("select",data.status);
+							$("#pid").combobox("select",data.pid);
+							$("#cid").combobox("select",data.cid);
+							$("#address").val(data.address);
+							
+						});
+						$('#win').window('open');
+					}
+				},'-',{
+					iconCls: 'icon-refresh',
+					text:'刷新',
+					handler: function(){
+						refres(1,10);
+					}
+				}]
+			}); 
+			var pager = $("#dg").datagrid("getPager");
+			pager.pagination({
+				pageList:[5,10,20],//设置一页的行数
+				//翻页函数
+				onSelectPage:function(pageNumber, pageSize){
+					refres(pageNumber,pageSize);
+				}
+			});
+
+
+
+			
+		});
+		function refres(pageNumber,pageSize){
+			$("#dg").datagrid('loading');
+			$.getJSON("../controller/main.php?pageNo=1&pageSize=10&controller=manageStudentController&methodName=loadMenuByTeache&pageNo="+pageNumber+"&pageSize="+pageSize,{
+			},function(result){
+				$("#dg").datagrid('loadData',{
+					rows:result.rows,
+					total:result.total
+				});
+				var pager = $("#dg").datagrid("getPager");
+				pager.pagination({
+					pageNumber:pageNumber,
+					pageSize:pageSize
+				});
+				$("#dg").datagrid('loaded');
+				
+			});
+		}
+		function upMenu(){
+			var uid 						 = $("#uid").val();
+			var userName    		 = $("#userName").val();
+			var userPass			 = $("#userPass").val();
+			var userType			 = $("#userType").combo('getValue');
+			var trueName			 = $("#trueName").val();
+			var education 		 = $("#education").combo('getValue');
+			var pid 					 = $("#pid").combo('getValue');
+			var cid 					 = $("#cid").combo('getValue');
+			var sex 				 	 = $("#sex").combo('getValue');
+			var phone				 = $("#phone").val();
+			var school				 = $("#school").val();
+			var birthDay 		   	 = $("#birthDay").combo("getValue");
+			var address				 = $("#address").val();
+			var status 				 = $("#status").combo('getValue');
+			$.post('../controller/main.php?controller=manageStudentController&methodName=saveOrUpdateUser',{
+				"uid"	 				: uid,
+				"userName"	: userName,
+				"userPass"		: userPass,
+				"userType"		: userType,
+				"trueName"	: trueName,
+				"education"    :education,
+				"school"			: school,
+				"sex"				: sex,
+				"phone"			: phone,
+				"pid"				: pid,
+				"cid"				: cid,
+				"status"			: status,
+				"birthDay"		: birthDay,
+				"address"		: address
+			},function(data){
+				if(data == "ok"){
+					refres(1,10);
+					$('#win').window('close');
+				}else if(data == "ok"){
+					refres(1,10);
+					
+					$('#win').window('close');
+				}
+				  // close a window  
+			},"text");
+		}
+		</script>
+    </head>
+    <body>
+        <table id="dg"></table>
+    	<div id="win" class="easyui-window" title="My Window" style="width:700px;height:600px ;margin-top: ;"   
+                data-options="iconCls:'icon-save',modal:true,collapsible:false,minimizable:false,maximizable:false,resizable:false">   
+            <form id="ff" method="post"> 
+        		<input type="text" id="uid" name="uid"/>
+        		<table id="fortable">
+        			<tr>
+        				<td align="right"><label for="userName">账号:</label></td>
+        				<td><input class="easyui-validatebox" type="text" id="userName" name="userName" data-options="required:true" placeholder="请输入账号"/></td>
+        			</tr>
+        			<tr>
+        				<td align="right"><label for="userPass">密码:</label></td>
+        				<td><input class="easyui-validatebox" type="text" id="userPass" name="userPass" data-options="required:true" data-options="required:true" placeholder="请输入密码"/></td>
+        			</tr>
+        			<tr>
+        				<td align="right"><label for="trueName">真实姓名:</label></td>
+        				<td><input class="easyui-validatebox" type="text" id="trueName" name="trueName" data-options="required:true" placeholder="请输入真实姓名"/></td>
+        			</tr>
+        			<tr>
+        				<td align="right"><label for="status">地址:</label></td>
+        				<td>
+        					<input id="classid" name="classid" class="easyui-combobox" value="选择城市" style="width: 75px;" data-options="ediable:false">  
+        				</td>
+        			</tr>
+        			<tr>
+        				<td align="right"><label for="birthDay">生日:</label></td>
+        				<td><input class="easyui-datebox" type="text" id="birthDay" name="birthdDay" data-options="ediable:false"  placeholder="请选择生日"/></td>
+        			</tr>
+        			
+        			<tr>
+        				<td align="right"><label for="sex">性别:</label></td>
+        				<td>
+        					<select id="sex" name="sex" style="width:150px;" class="easyui-combobox" data-options="ediable:false">
+        						<option value='1'>男</option>
+        						<option value='0'>女</option>
+        					</select>
+        				</td>
+        			</tr>
+        			<tr>
+        				<td align="right"><label for="status">地址:</label></td>
+        				<td>
+        					<input id="pid" name="pid" class="easyui-combobox" value="选择城市" style="width: 75px;" data-options="ediable:false">  
+        					<input id="cid" name="cid" class="easyui-combobox" value="选择地区" style="width: 75px;" data-options="ediable:false"> 
+        				</td>
+        			</tr>
+        			<tr>
+        				<td align="right"><label for="address">详细地址:</label></td>
+        				<td>
+        					<input type="text" id="address" name="address" placeholder="输入详细乡镇街道信息"> 
+        				</td>
+        			</tr>
+        			
+        			
+        			<tr>
+        				<td align="right"><label for="phone">手机号:</label></td>
+        				<td><input class="easyui-validatebox" type="text" id="phone" name="phone" data-options=""  placeholder="请输入手机号"/></td>
+        			</tr>
+        			<tr>
+        				<td align="center" colspan="2">
+        					<a id="btn" href="javascript:upMenu();" class="easyui-linkbutton" data-options="iconCls:'icon-submit'">提交</a>
+        				</td>
+        			</tr>
+        		</table>  
+            </form>
+        </div>
+    </body>
+</html>

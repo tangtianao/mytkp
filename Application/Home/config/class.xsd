@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema" 
+targetNamespace="http://www.example.org/class" 
+xmlns:tns="http://www.example.org/class"
+elementFormDefault="qualified">
+	<element name="class">
+		<complexType>
+			<sequence>
+				<element name="database" minOccurs="1" maxOccurs="unbounded">
+					<complexType>
+						<sequence>
+							<element name="dsn" type="string"></element>
+							<element name="username" type="string"></element>
+							<element name="userpass" type="string"></element>
+						</sequence>
+						<attribute name="id" type="string" use="required"></attribute>
+					</complexType>
+				</element>
+			</sequence>
+		</complexType>
+	</element>
+</schema>

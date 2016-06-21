@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>菜单管理</title>
+    </head>
+    <body>
+        
+          <table width="800px";cellspacing="0" border="1">
+	          <tr>
+	         	 <td>编号</td>
+	         	 <td>菜单名字</td>
+	         	 <td>菜单url</td>
+	         	 <td>父级菜单</td>
+	         	 <td>是否显示</td>
+	          </tr>
+	         <!--  <volist name="data" id="menu" mod="3" empty="$msg" key="i">
+	              <eq name="mod" value="0">
+		              <tr style="background-color: gray">
+			         	  <td>{$menu.menuid}</td>
+			         	  <td>{$menu.name}</td>
+			         	  <td>{$menu.url}</td>
+			         	  <td>{$menu.parentid}</td>
+			         	  <td>
+			         	 	<if condition="$data.$i.isshow eq 1">
+			         	 	显示
+			         	 	<else/>
+			         	 	不显示
+			         	 	</if>
+				          </td>
+		              </tr>
+	              </eq>
+	          </volist> -->
+          	 <foreach name="data" item="menu" key="i">
+	          	 <eq name="i%3" value="1">
+			         <tr style="background-color: red">
+			         	 <td>{$menu.menuid}</td>
+			         	 <td>{$menu.name}</td>
+			         	 <td>{$menu.url}</td>
+			         	 <td>{$menu.parentid}</td>
+			         	 <td>
+			         	 	<if condition="$menu.isshow eq 1">
+			         	 	显示
+			         	 	<else/>
+			         	 	不显示
+			         	 	</if>
+				          </td>
+			         </tr>
+	          	 </eq>
+          	 </foreach>
+	          	<!--  <for start="$da-1" end="0" comparison="gt" step="-1" name="i">
+		          	 <eq name="i%3" value="2">
+			          	<tr style="background-color: blue;">
+			         	 <td>{$data.$i.menuid}</td>
+			         	 <td>{$data.$i.name}</td>
+			         	 <td>{$data.$i.url}</td>
+			         	 <td>{$data.$i.parentid}</td>
+			         	 <td>
+			         	 	<if condition="$data.$i.isshow eq 2">
+			         	 	显示
+			         	 	<else/>
+			         	 	不显示
+			         	 	</if>
+			         	 </td>
+			          	</tr>
+		          	 </eq>
+	          	 </for> -->
+          </table>
+          <if condition="$j eq 1">
+          	这个是等于1
+          <elseif condition="$j eq 2" />
+          	这个等于2		
+           <elseif condition="$j eq 3" />
+       		   这个等于3
+          <elseif condition="$j eq 4" />
+		          这个等于4
+          <else />
+    		      这个是什么都不等于
+          </if>
+          
+    </body>
+</html>

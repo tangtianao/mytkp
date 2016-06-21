@@ -1,0 +1,548 @@
+[ 2016-06-17T11:05:51+08:00 ] 127.0.0.1 /mytyk/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001001s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.009001s ]
+
+[ 2016-06-17T11:05:54+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPage/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006000s ]
+
+[ 2016-06-17T11:06:40+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPage/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+
+[ 2016-06-17T11:10:31+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPage/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `menu`  [ RunTime:0.0000s ]
+
+[ 2016-06-17T11:14:32+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-17T11:15:25+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+ERR: 1103:Incorrect table name ''
+ [ SQL语句 ] : SELECT * FROM `` 
+ERR: 1103:Incorrect table name ''
+ [ SQL语句 ] : SELECT * FROM `` 
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\Db\Driver.class.php:170) C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\Db\Driver.class.php:170) C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+
+[ 2016-06-17T11:15:54+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.015600s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SELECT * FROM `menu`  [ RunTime:0.0000s ]
+
+[ 2016-06-17T11:25:19+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SELECT a.menuid,a.name,a.url,b.name,a.isshow FROM menu a,menu b WHERE ( a.parentid = b.menuid )  [ RunTime:0.0000s ]
+
+[ 2016-06-17T11:25:50+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SELECT a.menuid,a.name,a.url,b.name parentName,a.isshow FROM menu a,menu b WHERE ( a.parentid = b.menuid )  [ RunTime:0.0000s ]
+
+[ 2016-06-17T11:27:47+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SELECT m.menuid,m.name,m.url,m2.name as parentName,m.isshow FROM menu m,menu m2 WHERE ( m.parentid = m2.menuid )  [ RunTime:0.0000s ]
+
+[ 2016-06-17T11:27:56+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002500s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0050s ]
+SQL: SELECT m.menuid,m.name,m.url,m2.name as parentName,m.isshow FROM menu m,menu m2 WHERE ( m.parentid = m2.menuid )  [ RunTime:0.0025s ]
+
+[ 2016-06-17T11:28:12+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005001s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0030s ]
+SQL: SELECT m.menuid,m.name,m.url,m2.name as parentName,m.isshow FROM menu m,menu m2 WHERE ( m.parentid = m2.menuid )  [ RunTime:0.0010s ]
+
+[ 2016-06-17T11:28:44+08:00 ] 127.0.0.1 /mytyk/index.php/Home/User/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011000s ]
+
+[ 2016-06-17T11:28:48+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0020s ]
+SQL: SELECT m.menuid,m.name,m.url,m2.name as parentName,m.isshow FROM menu m,menu m2 WHERE ( m.parentid = m2.menuid )  [ RunTime:0.0020s ]
+
+[ 2016-06-17T11:34:23+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0156s ]
+SQL: SELECT m.menuid,m.name,m.url,m2.name as parentName,m.isshow FROM menu m,menu m2 WHERE ( m.parentid = m2.menuid ) LIMIT 10   [ RunTime:0.0000s ]
+
+[ 2016-06-17T11:34:41+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0156s ]
+SQL: SELECT m.menuid,m.name,m.url,m2.name as parentName,m.isshow FROM menu m,menu m2 WHERE ( m.parentid = m2.menuid ) LIMIT 1,10   [ RunTime:0.0000s ]
+
+[ 2016-06-17T11:35:23+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0050s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0050s ]
+SQL: SELECT m.menuid,m.name,m.url,m2.name as parentName,m.isshow FROM menu m,menu m2 WHERE ( m.parentid = m2.menuid ) LIMIT 1,10   [ RunTime:0.0030s ]
+
+[ 2016-06-17T11:36:18+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SELECT m.menuid,m.name,m.url,m2.name as parentName,m.isshow FROM menu m,menu m2 WHERE ( m.parentid = m2.menuid ) LIMIT 1,10   [ RunTime:0.0156s ]
+
+[ 2016-06-17T11:38:24+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015601s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0075s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0156s ]
+SQL: SELECT m.menuid,m.name,m.url,m2.name,m.isshow FROM menu m,menu m2 WHERE ( m.parentid = m2.menuid ) LIMIT 1,10   [ RunTime:0.0156s ]
+
+[ 2016-06-17T11:39:03+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0040s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0040s ]
+SQL: SELECT m.menuid,m.name,m.url,m2.name as parentName,m.isshow FROM menu m,menu m2 WHERE ( m.parentid = m2.menuid ) LIMIT 1,10   [ RunTime:0.0130s ]
+
+[ 2016-06-17T11:40:41+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.008000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0156s ]
+SQL: SELECT m.menuid,m.name,m.url,m2.name,m.isshow FROM menu m,menu m2 WHERE ( m.parentid = m2.menuid ) LIMIT 1,10   [ RunTime:0.0000s ]
+
+[ 2016-06-17T11:42:15+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0156s ]
+SQL: SELECT m.menuid,m.name,m.url,m2.name as parentName,m.isshow FROM menu m,menu m2 WHERE ( m.parentid = m2.menuid ) LIMIT 0,10   [ RunTime:0.0000s ]
+
+[ 2016-06-17T11:43:02+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0156s ]
+SQL: SELECT m.menuid,m.name,m.url,m2.name as parentName,m.isshow FROM menu m,menu m2 WHERE ( m.parentid = m2.menuid ) LIMIT 0,10   [ RunTime:0.0000s ]
+
+[ 2016-06-17T11:49:17+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0156s ]
+SQL: SELECT m.menuid,m.name,m.url,m2.name as parentName,m.isshow FROM menu m,menu m2 WHERE ( m.parentid = m2.menuid ) LIMIT 0,10   [ RunTime:0.0000s ]
+
+[ 2016-06-17T11:58:54+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0156s ]
+ERR: 1054:Unknown column 'm.menuid' in 'field list'
+ [ SQL语句 ] : SELECT m.menuid,m.name,m.url,m2.name as parentName,m.isshow FROM `menu` `m2` WHERE ( m.parentid = m2.menuid ) LIMIT 0,10  
+ERR: 1054:Unknown column 'm.menuid' in 'field list'
+ [ SQL语句 ] : SELECT m.menuid,m.name,m.url,m2.name as parentName,m.isshow FROM `menu` `m2` WHERE ( m.parentid = m2.menuid ) LIMIT 0,10  
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\Db\Driver.class.php:170) C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\Db\Driver.class.php:170) C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+
+[ 2016-06-17T13:34:27+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0050s ]
+ERR: 1054:Unknown column 'm.menuid' in 'field list'
+ [ SQL语句 ] : SELECT m.menuid,m.name,m.url,m2.name as parentName,m.isshow FROM `menu` `m2` WHERE ( m.parentid = m2.menuid ) LIMIT 0,10  
+ERR: 1054:Unknown column 'm.menuid' in 'field list'
+ [ SQL语句 ] : SELECT m.menuid,m.name,m.url,m2.name as parentName,m.isshow FROM `menu` `m2` WHERE ( m.parentid = m2.menuid ) LIMIT 0,10  
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\Db\Driver.class.php:170) C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\Think.class.php 第 229 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\Db\Driver.class.php:170) C:\Program Files (x86)\webphp\mytyk\ThinkPHP\Library\Think\Think.class.php 第 230 行.
+
+[ 2016-06-17T13:35:13+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0156s ]
+SQL: SELECT m.menuid,m.name,m.url,m2.name as parentName,m.isshow FROM menu m,menu m2 WHERE ( m.parentid = m2.menuid ) LIMIT 0,10   [ RunTime:0.0000s ]
+
+[ 2016-06-17T14:55:53+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0156s ]
+SQL: SELECT m.menuid,m.name mname,m.url,m2.name m2name,m.isshow FROM menu m,menu m2 WHERE ( m.parentid = m2.menuid ) LIMIT 0,10   [ RunTime:0.0000s ]
+
+[ 2016-06-17T15:55:25+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SELECT m.menuid,m.name mname,m.url,m2.name m2name,m.isshow FROM menu m,menu m2 WHERE ( m.parentid = m2.menuid ) LIMIT 0,10   [ RunTime:0.0000s ]
+
+[ 2016-06-17T15:56:32+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SELECT m.menuid,m.name mname,m.url,m2.name m2name,m.isshow FROM menu m,menu m2 WHERE ( m.parentid = m2.menuid ) LIMIT 0,10   [ RunTime:0.0000s ]
+
+[ 2016-06-17T16:01:53+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.015600s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SELECT m.menuid,m.name mname,m.url,m2.name m2name,m.isshow FROM menu m,menu m2 WHERE ( m.parentid = m2.menuid ) LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT count(*) FROM `menu`  [ RunTime:0.0000s ]
+
+[ 2016-06-17T16:02:43+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SELECT m.menuid,m.name mname,m.url,m2.name m2name,m.isshow FROM menu m,menu m2 WHERE ( m.parentid = m2.menuid ) LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT count(*) FROM `menu`  [ RunTime:0.0000s ]
+
+[ 2016-06-17T16:04:37+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SELECT m.menuid,m.name mname,m.url,m2.name m2name,m.isshow FROM menu m,menu m2 WHERE ( m.parentid = m2.menuid ) LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT count(*) FROM `menu`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-17T16:05:13+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SELECT m.menuid,m.name mname,m.url,m2.name m2name,m.isshow FROM menu m,menu m2 WHERE ( m.parentid = m2.menuid ) LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT count(*) FROM `menu`  [ RunTime:0.0000s ]
+NOTIC: [8] Undefined offset: 0 C:\Program Files (x86)\webphp\mytyk\Application\Home\Controller\CaidanController.class.php 第 31 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-17T16:05:38+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SELECT m.menuid,m.name mname,m.url,m2.name m2name,m.isshow FROM menu m,menu m2 WHERE ( m.parentid = m2.menuid ) LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT count(*) total FROM `menu`  [ RunTime:0.0000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000000s ]
+
+[ 2016-06-17T16:05:59+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0025s ]
+SQL: SELECT m.menuid,m.name mname,m.url,m2.name m2name,m.isshow FROM menu m,menu m2 WHERE ( m.parentid = m2.menuid ) LIMIT 0,10   [ RunTime:0.0025s ]
+SQL: SELECT count(*) total FROM `menu`  [ RunTime:0.0000s ]
+
+[ 2016-06-17T16:06:02+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/2/pageSize/10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SELECT m.menuid,m.name mname,m.url,m2.name m2name,m.isshow FROM menu m,menu m2 WHERE ( m.parentid = m2.menuid ) LIMIT 10,10   [ RunTime:0.0000s ]
+SQL: SELECT count(*) total FROM `menu`  [ RunTime:0.0000s ]
+
+[ 2016-06-17T16:06:06+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SELECT m.menuid,m.name mname,m.url,m2.name m2name,m.isshow FROM menu m,menu m2 WHERE ( m.parentid = m2.menuid ) LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT count(*) total FROM `menu`  [ RunTime:0.0000s ]
+
+[ 2016-06-17T16:07:56+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015600s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015600s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0156s ]
+SQL: SELECT m.menuid,m.name mname,m.url,m2.name m2name,m.isshow FROM menu m,menu m2 WHERE ( m.parentid = m2.menuid ) LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT count(*) total FROM `menu`  [ RunTime:0.0000s ]
+
+[ 2016-06-17T16:07:59+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/2/pageSize/10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0100s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0050s ]
+SQL: SELECT m.menuid,m.name mname,m.url,m2.name m2name,m.isshow FROM menu m,menu m2 WHERE ( m.parentid = m2.menuid ) LIMIT 10,10   [ RunTime:0.0000s ]
+SQL: SELECT count(*) total FROM `menu`  [ RunTime:0.0025s ]
+
+[ 2016-06-17T16:08:02+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0000s ]
+SQL: SELECT m.menuid,m.name mname,m.url,m2.name m2name,m.isshow FROM menu m,menu m2 WHERE ( m.parentid = m2.menuid ) LIMIT 0,10   [ RunTime:0.0000s ]
+SQL: SELECT count(*) total FROM `menu`  [ RunTime:0.0000s ]
+
+[ 2016-06-17T17:08:39+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/2/pageSize/10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0080s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0060s ]
+SQL: SELECT m.menuid,m.name mname,m.url,m2.name m2name,m.isshow FROM menu m,menu m2 WHERE ( m.parentid = m2.menuid ) LIMIT 10,10   [ RunTime:0.0010s ]
+SQL: SELECT count(*) total FROM `menu`  [ RunTime:0.0010s ]
+
+[ 2016-06-17T17:08:42+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0030s ]
+SQL: SELECT m.menuid,m.name mname,m.url,m2.name m2name,m.isshow FROM menu m,menu m2 WHERE ( m.parentid = m2.menuid ) LIMIT 0,10   [ RunTime:0.0030s ]
+SQL: SELECT count(*) total FROM `menu`  [ RunTime:0.0010s ]
+
+[ 2016-06-17T17:09:55+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004001s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0030s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `menu` LIMIT 0,10   [ RunTime:0.0010s ]
+SQL: SELECT count(*) total FROM `menu`  [ RunTime:0.0000s ]
+
+[ 2016-06-17T17:10:01+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/2/pageSize/10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0075s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `menu` LIMIT 10,10   [ RunTime:0.0000s ]
+SQL: SELECT count(*) total FROM `menu`  [ RunTime:0.0000s ]
+
+[ 2016-06-17T17:10:52+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/1/pageSize/10?page=1&rows=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0025s ]
+SQL: SELECT m.menuid,m.name mname,m.url,m2.name m2name,m.isshow FROM menu m,menu m2 WHERE ( m.parentid = m2.menuid ) LIMIT 0,10   [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0025s ]
+SQL: SELECT count(*) total FROM menu m,menu m2 WHERE ( m.parentid = m2.menuid )  [ RunTime:0.0025s ]
+
+[ 2016-06-17T17:10:56+08:00 ] 127.0.0.1 /mytyk/index.php/Home/Caidan/loadMenuByPag/pageNo/2/pageSize/10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002500s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005000s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0075s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0100s ]
+SQL: SELECT m.menuid,m.name mname,m.url,m2.name m2name,m.isshow FROM menu m,menu m2 WHERE ( m.parentid = m2.menuid ) LIMIT 10,10   [ RunTime:0.0025s ]
+SQL: SHOW COLUMNS FROM `menu` [ RunTime:0.0025s ]
+SQL: SELECT count(*) total FROM menu m,menu m2 WHERE ( m.parentid = m2.menuid )  [ RunTime:0.0000s ]
+

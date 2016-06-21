@@ -1,0 +1,60 @@
+[ 2016-06-13T11:40:14+08:00 ] 127.0.0.1 /mytyk/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003000s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-13T11:40:19+08:00 ] 127.0.0.1 /mytyk/index/index
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005000s ]
+ERR: 无法加载模块:Index
+
+[ 2016-06-13T14:24:06+08:00 ] 127.0.0.1 /mytyk/ttt?name=aaa&pwd=111113
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Ttt
+
+[ 2016-06-13T14:24:14+08:00 ] 127.0.0.1 /mytyk/ttt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Ttt
+
+[ 2016-06-13T14:24:50+08:00 ] 127.0.0.1 /mytyk/ttt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Ttt
+
+[ 2016-06-13T14:24:51+08:00 ] 127.0.0.1 /mytyk/ttt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Ttt
+
+[ 2016-06-13T14:24:51+08:00 ] 127.0.0.1 /mytyk/ttt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Ttt
+
+[ 2016-06-13T14:24:53+08:00 ] 127.0.0.1 /mytyk/ttt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Ttt
+
+[ 2016-06-13T14:24:55+08:00 ] 127.0.0.1 /mytyk/ttt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+ERR: 无法加载模块:Ttt
+
+[ 2016-06-13T14:25:16+08:00 ] 127.0.0.1 /mytyk/index.php/ttt
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.015600s ]
+ERR: 无法加载模块:Ttt
+
