@@ -14,7 +14,7 @@ return array(
        "ttt" => "Home/index/index" 
         
     ),
-    "ROOT"=>"http://localhost:8080/mytyk/",
+    "ROOT"=>"http://localhost:8080/mytkp/",
     //控制器基本
 //     'CONTROLLER_LEVEL'=>2,
     //参数绑定

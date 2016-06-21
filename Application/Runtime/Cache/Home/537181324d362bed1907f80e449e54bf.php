@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
 <html>
 	<head>
 		<meta charset="UTF-8">
@@ -40,20 +40,9 @@
 		<br />
 		<form action="../controller/main.php" method="post">
 			<input type="hidden" name ="rid" value ="<?php echo $rid; ?>">
-			
-			    <foreach name="data" item="menu" key="i">
-			    <if condition="{$menu['1']} eq 1" />
-					<input type='checkbox' name='menuids[]' value = '{$menu.menuid}'checked='checked'>{$menu.name}<br />
-	          	 <else />
-					<input type='checkbox' name='menuids[]' value = '{$menu.menuid}'>{$menu.name}<br />
-	          	</if>
-	          	</foreach>
+			    <?php if(is_array($data)): foreach($data as $i=>$menu): ?><input type='checkbox' name='menuids[]' value = '<?php echo ($menu["menuid"]); ?>'checked='checked'><?php echo ($menu["name"]); ?><br /><?php endforeach; endif; ?>
+	    		  
             <input type="submit" value="确定提交">
 		</form>
 	</body>
 </html>
-
-
-
-
-

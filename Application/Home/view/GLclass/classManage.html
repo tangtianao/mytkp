@@ -3,11 +3,11 @@
     <head>
         <meta charset="UTF-8">
         <title>班级管理</title>
-      <link type="text/css"  rel="stylesheet" href="http://localhost:8080/mytyk/Public/easyui/themes/bootstrap/easyui.css">
-		<link type="text/css"  rel="stylesheet" href="http://localhost:8080/mytyk/Public/easyui/themes/icon.css">
-		<script type="text/javascript" src="http://localhost:8080/mytyk/Public/easyui/jquery.min.js"></script>
-		<script type="text/javascript" src="http://localhost:8080/mytyk/Public/easyui/jquery.easyui.min.js"></script>
-		<script type="text/javascript" src="http://localhost:8080/mytyk/Public/easyui/locale/easyui-lang-zh_CN.js"></script>
+        <link type="text/css"  rel="stylesheet" href="http://localhost:8080/mytkp/Public/easyui/themes/bootstrap/easyui.css">
+		<link type="text/css"  rel="stylesheet" href="http://localhost:8080/mytkp/Public/easyui/themes/icon.css">
+		<script type="text/javascript" src="http://localhost:8080/mytkp/Public/easyui/jquery.min.js"></script>
+		<script type="text/javascript" src="http://localhost:8080/mytkp/Public/easyui/jquery.easyui.min.js"></script>
+		<script type="text/javascript" src="http://localhost:8080/mytkp/Public/easyui/locale/easyui-lang-zh_CN.js"></script>
 		<style type="text/css">
         #fortable{
 	        width: 60%;
@@ -25,7 +25,7 @@
 			$('#dg').datagrid({
 				striped:true,    
 				method:'GET',
-			    url:"http://localhost:8080/mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10",
+			    url:"http://localhost:8080/mytkp/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10",
 			    rownumbers:true,
 			    pagination: true,
 			    frozenColumns:[[
@@ -66,7 +66,7 @@
 		//刷新页面的函数
 		function refres(pageNumber,pageSize){
 			$("#dg").datagrid('loading');
- 			$.getJSON("http://localhost:8080/mytyk/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10/pageNo/"+pageNumber+"/pageSize/"+pageSize,{
+ 			$.getJSON("http://localhost:8080/mytkp/index.php/Home/GLclass/loginClass/pageNo/1/pageSize/10/pageNo/"+pageNumber+"/pageSize/"+pageSize,{
 			},function(result){
 				$("#dg").datagrid('loadData',{
 					rows:result.rows,
@@ -82,7 +82,7 @@
 		}
 		//按条件搜索函数
 		function searchClass(){
-			$.post("http://localhost:8080/mytyk/index.php/Home/GLclass/loginClass",{
+			$.post("http://localhost:8080/mytkp/index.php/Home/GLclass/loginClass",{
 				'pageNo':1,
 				'pageSize':10,
 				'className':$("#className").val(),
@@ -110,7 +110,7 @@
 			var classType   = $("#classType").combo("getValue");
 			var createTime   = $("#createTime").combo("getValue");
 			var remark   = $("#remark").val();
-			$.post('http://localhost:8080/mytyk/index.php/Home/GLclass/saveOrUpClass',{
+			$.post('http://localhost:8080/mytkp/index.php/Home/GLclass/saveOrUpClass',{
 				"cid"	 				: cid,
 				"headerid"	 			: headerid,
 				"managerid"	 			: managerid,
@@ -134,14 +134,14 @@
 			$('#win').window('open');
 			//ajxa回班主任下拉列表
 			$('#headerid').combobox({    
-			    url:'http://localhost:8080/mytyk/index.php/Home/GLclass/headerid',    
+			    url:'http://localhost:8080/mytkp/index.php/Home/GLclass/headerid',    
 			    valueField:'uid',    
 				    textField:'truename',
 				    value:-1 
 			}); 
 			//ajxa回项目经理下拉列表
 			$('#managerid').combobox({    
-				    url:'http://localhost:8080/mytyk/index.php/Home/GLclass/manageid',    
+				    url:'http://localhost:8080/mytkp/index.php/Home/GLclass/manageid',    
 				    valueField:'uid',    
 				    textField:'truename',
 				    value:-1
@@ -176,7 +176,7 @@
 				cids.push(selectedRows[i].cid);
 				options.push({"name":selectedRows[i].name,"cid":selectedRows[i].cid});
 			}	
-			$.post("http://localhost:8080/mytyk/index.php/Home/GLclass/checkExamToday",{
+			$.post("http://localhost:8080/mytkp/index.php/Home/GLclass/checkExamToday",{
 				'cids':cids.join(",")
 			},function(data){
 				if(data == "ok"){
@@ -191,14 +191,14 @@
 					});
 					//ajxa回填班主任下拉列表
 					$('#combinedHeaderid').combobox({    
-					    url:'http://localhost:8080/mytyk/index.php/Home/GLclass/headerid',    
+					    url:'http://localhost:8080/mytkp/index.php/Home/GLclass/headerid',    
 					    valueField:'uid',    
 					    textField:'truename',
 					    value:-1
 					}); 
 					//ajxa回项目经理下拉列表
 					$('#combinedManagerid').combobox({    
-						    url:'http://localhost:8080/mytyk/index.php/Home/GLclass/manageid',    
+						    url:'http://localhost:8080/mytkp/index.php/Home/GLclass/manageid',    
 						    valueField:'uid',    
 						    textField:'truename',
 						    value:-1
@@ -215,7 +215,7 @@
 			for(var i=0;i<selectedRows.length;i++){
 				cids.push(selectedRows[i].cid);
 			}
-			$.post('http://localhost:8080/mytyk/index.php/Home/GLclass/combineClass',{
+			$.post('http://localhost:8080/mytkp/index.php/Home/GLclass/combineClass',{
 				'cids':cids.join(","),
 				'combinedHeaderid':$("#combinedHeaderid").combo("getValue"),
 				'combinedManagerid':$("#combinedManagerid").combo("getValue"),

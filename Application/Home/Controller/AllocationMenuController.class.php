@@ -15,10 +15,15 @@ class AllocationMenuController extends Controller{
 
         //$sql = "select m.menuid,m.name,(select 1 from rolemenu rm where rm.menuid = m.menuid and rm.rid = ?) from menu m;";
         //->fetchSql(true)
-        $data1 = $this->menuModel->field("m.menuid,m.name,1")->table("rolemenu rm, menu m")->where("rm.menuid = m.menuid and rm.rid = %d",$rid)->select();
-        $data2 = $this->menuModel->field("m.menuid,m.name")->table("menu m")->select();
+        $data1 = $this->menuModel->field("m.menuid,m.name")->table("rolemenu rm, menu m")->where("rm.menuid = m.menuid and rm.rid = %d",$rid)->select();
+        
+        $data2 = $this->menuModel->field("m.menuid,m.name")->table("rolemenu rm, menu m")->where("rm.menuid = m.menuid and rm not like %d",$rid)->select();
         $data = $data1 + $data2;
-        $this->display();
+        print_r($data1);
+        echo "<br />";
+        print_r($data);
+//         $this->assign("data",$data);
+//         $this->display();
     }
 }
 

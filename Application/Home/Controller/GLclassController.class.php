@@ -9,25 +9,25 @@ class GLclassController extends Controller{
         $this->GLclassModel = new Model("class");
     }
     /**
-     * 打开视图
+     * 鎵撳紑瑙嗗浘
      */
     public function classManage(){
         $this->display();
     }
     /**
-     * //查询班级列表 并且还可以按班级 项目经理 班主任 时间 搜索
-     * @param number $pageNo 绑定参数
-     * @param number $pageSize  绑定参数
-     * @param unknown $className 绑定参数
-     * @param unknown $headerName 绑定参数
-     * @param unknown $manageName 绑定参数  
-     * @param unknown $createtime1 绑定参数
-     * @param unknown $createtime2 绑定参数
-     * @param unknown $begintime1 绑定参数
-     * @param unknown $begintime2 绑定参数
-     * @param unknown $endtime1 绑定参数
-     * @param unknown $endtime2 绑定参数
-     * @param unknown $status 绑定参数
+     * //鏌ヨ鐝骇鍒楄〃 骞朵笖杩樺彲浠ユ寜鐝骇 椤圭洰缁忕悊 鐝富浠� 鏃堕棿 鎼滅储
+     * @param number $pageNo 缁戝畾鍙傛暟
+     * @param number $pageSize  缁戝畾鍙傛暟
+     * @param unknown $className 缁戝畾鍙傛暟
+     * @param unknown $headerName 缁戝畾鍙傛暟
+     * @param unknown $manageName 缁戝畾鍙傛暟  
+     * @param unknown $createtime1 缁戝畾鍙傛暟
+     * @param unknown $createtime2 缁戝畾鍙傛暟
+     * @param unknown $begintime1 缁戝畾鍙傛暟
+     * @param unknown $begintime2 缁戝畾鍙傛暟
+     * @param unknown $endtime1 缁戝畾鍙傛暟
+     * @param unknown $endtime2 缁戝畾鍙傛暟
+     * @param unknown $status 缁戝畾鍙傛暟
      */
     public function loginClass($pageNo=1,$pageSize=10,
         $className=null,$headerName=null,$manageName=null,
@@ -77,20 +77,20 @@ class GLclassController extends Controller{
     }
     
     /**
-     * 添加班级 
-     * @param unknown $cid 绑定参数
-     * @param unknown $headerid 绑定参数
-     * @param unknown $managerid 绑定参数
-     * @param unknown $managerid 绑定参数
-     * @param unknown $classType 绑定参数
-     * @param unknown $remark 绑定参数
-     * @param unknown $createTime 绑定参数
+     * 娣诲姞鐝骇 
+     * @param unknown $cid 缁戝畾鍙傛暟
+     * @param unknown $headerid 缁戝畾鍙傛暟
+     * @param unknown $managerid 缁戝畾鍙傛暟
+     * @param unknown $managerid 缁戝畾鍙傛暟
+     * @param unknown $classType 缁戝畾鍙傛暟
+     * @param unknown $remark 缁戝畾鍙傛暟
+     * @param unknown $createTime 缁戝畾鍙傛暟
      */
     public function saveOrUpClass($cid, $headerid, $managerid, $managerid, $classType,$remark,$createTime){
         $status = 1;
         $endTime =  date("Y-m-d H:i:s");
         
-        //根据班级类型 设定班级名字  结业时间
+        //鏍规嵁鐝骇绫诲瀷 璁惧畾鐝骇鍚嶅瓧  缁撲笟鏃堕棿
         if ($classType == 1){
             $row = $this->GLclassModel->where("classType = $classType")->select();
             if($row == null){
@@ -152,10 +152,10 @@ class GLclassController extends Controller{
         }
     }
     /**
-     * 查询班主任，回填项目经理下拉列表框
+     * 鏌ヨ鐝富浠伙紝鍥炲～椤圭洰缁忕悊涓嬫媺鍒楄〃妗�
      */
     public function headerid(){
-        $data = array(array("uid"=>-1,"truename"=>"请指定班主任名字"));
+        $data = array(array("uid"=>-1,"truename"=>"璇锋寚瀹氱彮涓讳换鍚嶅瓧"));
         $row = $this->GLclassModel->field("uid,truename")->table("euser")->where("userType = 2")->select();
         foreach ($row as $d){
             array_push($data, $d);
@@ -164,10 +164,10 @@ class GLclassController extends Controller{
         
     }
     /**
-     * 查询项目经理，回填项目经理下拉列表框
+     * 鏌ヨ椤圭洰缁忕悊锛屽洖濉」鐩粡鐞嗕笅鎷夊垪琛ㄦ
      */
     public function manageid(){
-        $data = array(array("uid"=>-1,"truename"=>"请指定项目经理名字"));
+        $data = array(array("uid"=>-1,"truename"=>"璇锋寚瀹氶」鐩粡鐞嗗悕瀛�"));
         $row = $this->GLclassModel->field("uid,truename")->table("euser")->where("userType = 3")->select();
         foreach ($row as $d){
             array_push($data, $d);
@@ -178,45 +178,45 @@ class GLclassController extends Controller{
     
    
     /**
-     * 检查所有班级今天是否有考试
-     * @param unknown $cids 参数绑定 最少两个cid（1,2,3）
+     * 妫�鏌ユ墍鏈夌彮绾т粖澶╂槸鍚︽湁鑰冭瘯
+     * @param unknown $cids 鍙傛暟缁戝畾 鏈�灏戜袱涓猚id锛�1,2,3锛�
      */
     public function checkExamToday($cids = null){
         $d = date("Y-m-d");
         $db = $d." 00:00:00";
         $de = $d." 23:59:59";
-       //在考试安排变查询是否有班级在考试
+       //鍦ㄨ�冭瘯瀹夋帓鍙樻煡璇㈡槸鍚︽湁鐝骇鍦ㄨ�冭瘯
         $data = $this->GLclassModel->table("exam")->where("classid in($cids) and beginTime between '$db' and '$de'")->select();
         if (count($data)>0){
             $classids = array();
-            //取到有考试班级的id
+            //鍙栧埌鏈夎�冭瘯鐝骇鐨刬d
             foreach ($data as $exam){
                 array_push($classids, $exam["classid"]);
             }
             $str = implode(",", $classids);
-            //查询有考试班级的名字
+            //鏌ヨ鏈夎�冭瘯鐝骇鐨勫悕瀛�
             $r = $this->GLclassModel->field("name")->where("cid in ($str)")->select();
             $names = array();
             foreach ($r as $n){
                 array_push($names,$n["name"]);
             }
-            $this->ajaxReturn("对不起".implode(",", $names)."今天有考试！不能合并","EVAL");
+            $this->ajaxReturn("瀵逛笉璧�".implode(",", $names)."浠婂ぉ鏈夎�冭瘯锛佷笉鑳藉悎骞�","EVAL");
         }else {
             $this->ajaxReturn("ok","EVAL");            
         }
     }
     /**
-     * 合并班级
-     * @param unknown $cids 要合并的班级为
-     * @param unknown $combinedHeaderid  合并后的班主任id
-     * @param unknown $combinedManagerid 合并后项目经理id
-     * @param unknown $combinedClassid 合并后保留班级id
+     * 鍚堝苟鐝骇
+     * @param unknown $cids 瑕佸悎骞剁殑鐝骇涓�
+     * @param unknown $combinedHeaderid  鍚堝苟鍚庣殑鐝富浠籭d
+     * @param unknown $combinedManagerid 鍚堝苟鍚庨」鐩粡鐞唅d
+     * @param unknown $combinedClassid 鍚堝苟鍚庝繚鐣欑彮绾d
      */
     public function combineClass($cids=null, $combinedHeaderid=-1, $combinedManagerid=-1, $combinedClassid=-1){
         try {
             $this->GLclassModel->setProperty(\PDO::ATTR_AUTOCOMMIT, FALSE);
-            $this->GLclassModel->startTrans();//开启事物
-            //查询要合并的班级
+            $this->GLclassModel->startTrans();//寮�鍚簨鐗�
+            //鏌ヨ瑕佸悎骞剁殑鐝骇
             $classes = $this->GLclassModel->where("cid in ($cids)")->select();
             $coun = 0;
             foreach ($classes as $c){
@@ -225,26 +225,26 @@ class GLclassController extends Controller{
                     $coun += $c["stucount"];
                     $c["stucount"]=0;
                     $c["status"]=3;
-                    //修改本合并的班级人数跟状态
+                    //淇敼鏈悎骞剁殑鐝骇浜烘暟璺熺姸鎬�
                     $this->GLclassModel->save($c);
-                    //修改用户表属于被合并班级的学生 改为合并后的班级的id
+                    //淇敼鐢ㄦ埛琛ㄥ睘浜庤鍚堝苟鐝骇鐨勫鐢� 鏀逛负鍚堝苟鍚庣殑鐝骇鐨刬d
                     $sql = "update euser set classid=%d where classid =%d";
                     $this->GLclassModel->execute($sql, $combinedClassid, $c["cid"]);
                 }
             }
-            //查询要保留的班级
+            //鏌ヨ瑕佷繚鐣欑殑鐝骇
             $c = $this->GLclassModel->table("class")->where("cid=%d", $combinedClassid)->find();
             $c["headerid"]=$combinedHeaderid;
             $c["managerid"]=$combinedManagerid;
             $c["stucount"] += $coun;
-            //修改要保留班级的 项目经理 班主任 人数
+            //淇敼瑕佷繚鐣欑彮绾х殑 椤圭洰缁忕悊 鐝富浠� 浜烘暟
             $w =  $this->GLclassModel->save($c);
             
-            $this->GLclassModel->commit();//提交事物
+            $this->GLclassModel->commit();//鎻愪氦浜嬬墿
         }catch (\PDOException $e){
-            $this->GLclassModel->rollback();//事务回滚到上一次提交后的数据状态
+            $this->GLclassModel->rollback();//浜嬪姟鍥炴粴鍒颁笂涓�娆℃彁浜ゅ悗鐨勬暟鎹姸鎬�
         }
-        //调用刷新页面方法 是json格式返回
+        //璋冪敤鍒锋柊椤甸潰鏂规硶 鏄痡son鏍煎紡杩斿洖
         $this->loginClass();
     }
     

@@ -28,7 +28,7 @@ class UserController extends Controller{
             $uid = $user[0];
             $data =$this->menuModel->loadTreeMenu($uid);
             $_SESSION["secondMenu"]=$data;
-            header("location:http://localhost:8080/mytyk/welcome.php");
+            header("location:http://localhost:8080/mytkp/welcome.php");
         }elseif ($i == 3){
             //用户名不存在
             $_SESSION["loginError"]= "密码错误";
